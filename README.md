@@ -42,9 +42,6 @@ React.js • Next.js • HTML5 • CSS3 • Tailwind CSS
 ### ⚙️ Backend
 Node.js • Express.js • FastAPI
 
-### 📱 Mobile Development
-Flutter • React Native • Expo
-
 ### 🗄 Databases
 PostgreSQL • MySQL • MongoDB
 
@@ -53,7 +50,7 @@ Docker • Kubernetes • GitHub Actions
 AWS • Google Cloud Platform (GCP)
 
 ### 🧰 Tools
-Git • VS Code • Android Studio • Postman
+Git • VS Code • Postman cursoe . antigravity 
 
 ---
 
@@ -109,17 +106,6 @@ Git • VS Code • Android Studio • Postman
 
 ---
 
-# 🏆 Achievements
-
-🏆 Winner – **Most Innovative Idea**  
-Innovate 4.0 Hackathon – ITCN Asia 2024  
-
-🥈 Runner Up – **Web Programming Competition**  
-Riphah International University 2023  
-
-💰 Startup Pitch Competition – **Cash Prize & Mentorship**
-
----
 
 # 🌐 Connect With Me
 
