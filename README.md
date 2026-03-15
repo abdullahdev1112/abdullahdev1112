@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | DevOps Enthusiast</h3>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Abdullah%20Sajjad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Junior DevOps Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications;AI+%26+Automation+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;DevOps+Enthusiast;Cloud+%7C+Docker+%7C+Kubernetes;AI+and+Robotics+Explorer"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a **Software Engineer specializing in Full Stack Development and DevOps**.
+I am a **Software Engineer focused on building scalable full stack applications and modern mobile systems**.
 
-I focus on building **scalable applications, clean backend systems, and cloud-ready deployments** using modern technologies.
+I enjoy designing **clean architectures, efficient APIs, and cloud-ready deployments**. My interests include **DevOps engineering, AI integrations, and automation systems**.
 
-My goal is to design **high-performance systems that are reliable, maintainable, and production ready.**
+I focus on writing **clean, maintainable code and building reliable software systems.**
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 - 🌐 Full Stack Web Development (React, Next.js, Node.js)
-- 📱 Cross Platform Mobile Development (React Native & Flutter)
-- ☁️ DevOps & Cloud Infrastructure
-- 🤖 AI integrations and automation
-- 🗄️ Database design & optimization
+- 📱 Cross-platform Mobile Apps (Flutter & React Native)
+- ☁️ Cloud Infrastructure (AWS & Google Cloud)
+- 🐳 DevOps Engineering (Docker & Kubernetes)
+- 🤖 AI integrations and robotics applications
+- 🗄️ Database architecture and performance optimization
 
 ---
 
@@ -33,13 +37,13 @@ My goal is to design **high-performance systems that are reliable, maintainable,
 JavaScript • TypeScript • Python • Dart
 
 ### 🌐 Frontend
-React.js • Next.js • HTML5 • CSS3 • TailwindCSS
+React.js • Next.js • HTML5 • CSS3 • Tailwind CSS
 
 ### ⚙️ Backend
 Node.js • Express.js • FastAPI
 
-### 📱 Mobile
-React Native • Flutter • Expo
+### 📱 Mobile Development
+Flutter • React Native • Expo
 
 ### 🗄 Databases
 PostgreSQL • MySQL • MongoDB
@@ -57,9 +61,9 @@ Git • VS Code • Android Studio • Postman
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadfahaddev&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahsajjad&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfahaddev&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsajjad&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -69,23 +73,23 @@ Git • VS Code • Android Studio • Postman
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfahaddev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajjad&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfahaddev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahsajjad&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -95,25 +99,25 @@ Git • VS Code • Android Studio • Postman
 
 ---
 
-# 🏆 Achievements
+# 🎯 Current Learning
 
-🥇 **Winner – Most Innovative Idea**  
-Innovate 4.0 Hackathon (ITCN Asia 2024)
-
-🥈 **Runner Up – Web Programming Competition**  
-Riphah International University 2023
-
-💰 **Startup Pitch Winner – Innovate 4.0**
+- Advanced **DevOps Engineering**
+- **Kubernetes orchestration**
+- **Cloud Architecture (AWS & GCP)**
+- **AI & Robotics systems**
+- **Scalable backend architecture**
 
 ---
 
-# 🎯 Current Learning
+# 🏆 Achievements
 
-- Kubernetes Orchestration
-- Cloud Architecture (AWS & GCP)
-- DevOps Pipelines & Automation
-- AI Systems Integration
-- Scalable System Design
+🏆 Winner – **Most Innovative Idea**  
+Innovate 4.0 Hackathon – ITCN Asia 2024  
+
+🥈 Runner Up – **Web Programming Competition**  
+Riphah International University 2023  
+
+💰 Startup Pitch Competition – **Cash Prize & Mentorship**
 
 ---
 
@@ -127,7 +131,7 @@ Portfolio • LinkedIn • GitHub • Email
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=muhammadfahaddev&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=abdullahsajjad&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -135,12 +139,13 @@ Portfolio • LinkedIn • GitHub • Email
 
 # 💬 Motto
 
-> Building scalable software, modern applications, and cloud powered systems.
+> Building scalable systems, modern applications, and cloud-powered software.
 
 ---
 
-⭐ **Open for opportunities in:**
-- Software Engineering
-- Full Stack Development
-- Backend Development
-- Junior DevOps Engineer
+⭐ Open to opportunities in:
+
+• Software Engineering  
+• Full Stack Development  
+• Backend Development  
+• Junior DevOps Engineering
