@@ -1,60 +1,146 @@
-### Hi there, I'm Abdullah! 👋
+<h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Junior DevOps Engineer</h3>
+
+<p align="center">
+Building scalable applications, cloud infrastructure, and modern software systems.
+</p>
 
 ---
 
-### Backend Developer & Systems Architect 🚀
-*Building scalable APIs, real-time architectures, and AI-powered automation pipelines.*
+## 👨‍💻 About Me
+
+I am a **Software Engineer specializing in Full Stack Development and DevOps**.
+
+I focus on building **scalable applications, clean backend systems, and cloud-ready deployments** using modern technologies.
+
+My goal is to design **high-performance systems that are reliable, maintainable, and production ready.**
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Current Focus
 
-I am a **Backend Developer** with hands-on experience building highly scalable APIs and backend systems using **Node.js (Express)** and **Python (FastAPI)**. I specialize in designing and implementing backend architectures for data-driven applications, real-time communication systems, and AI-powered services.
-
-My core focus involves building production-ready APIs, integrating advanced AI services (like LLMs and **RAG** systems), and optimizing database performance for reliable and scalable applications.
-
-**Key Areas of Expertise:**
-- 🧱 **Backend Architecture:** REST API development, modular system design, and production pipelines.
-- ⚡ **Real-Time Systems:** High-performance systems using WebSockets and event-driven data flow.
-- 🗄️ **Database Engineering:** SQL optimization, schema design, and complex indexing strategies.
-- 🤖 **AI & Automation:** RAG-based document systems, LLM integrations, and robust workflow automation using **n8n**.
-- 🐳 **DevOps & Deployment:** Containerized deployments with Docker and structured Git-based workflows.
+- 🌐 Full Stack Web Development (React, Next.js, Node.js)
+- 📱 Cross Platform Mobile Development (React Native & Flutter)
+- ☁️ DevOps & Cloud Infrastructure
+- 🤖 AI integrations and automation
+- 🗄️ Database design & optimization
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python  
-**Backend:** Node.js, Express.js, FastAPI  
-**Databases:** PostgreSQL, MySQL  
-**Tools & DevOps:** Docker, Git, n8n Automation  
+### 💻 Languages
+JavaScript • TypeScript • Python • Dart
 
----
+### 🌐 Frontend
+React.js • Next.js • HTML5 • CSS3 • TailwindCSS
 
-### 🚀 Featured Projects Portfolio
+### ⚙️ Backend
+Node.js • Express.js • FastAPI
 
-Here is a curated list of my top projects across various domains, from real-time communication platforms to digital banking backends and AI systems.
+### 📱 Mobile
+React Native • Flutter • Expo
 
-#### 💬 Real-Time Chat & Communication Systems
-*   **[WeChat App Node.js (All Modules)](https://github.com/abdullahdev1112/we-chat-in-node-js-with-all-modules)** - Comprehensive Node.js chat architecture containing full modular breakdown.
-*   **[Telegram-Style Chat Server](https://github.com/abdullahdev1112/telegram-style-chat-server)** - A robust real-time chat server inspired by Telegram's architecture using WebSockets.
-*   **[WeChat Backend Architecture](https://github.com/abdullahdev1112/wechat-backend)** - Core backend service handling application logic and complex chat flows.
+### 🗄 Databases
+PostgreSQL • MySQL • MongoDB
 
-#### 🏦 FinTech & Digital Banking 
-*   **[Digital Bank Backend](https://github.com/abdullahdev1112/bank-backend)** - Secure backend infrastructure designed for banking operations and transactions.
-*   **[Digital Bank Web App](https://github.com/abdullahdev1112/digital-bank-with-circle-and-bridge-integration)** - Next-generation digital bank frontend integrating Fiat/Crypto via Circle and Bridge APIs.
-*   **[Web Digital Bank UI](https://github.com/abdullahdev1112/web-digital-bank)** - Clean UI implementation for the digital banking platform.
+### ☁️ DevOps & Cloud
+Docker • Kubernetes • GitHub Actions  
+AWS • Google Cloud Platform (GCP)
 
-#### 🧠 Advanced Systems: AI & Web3
-*   **[RAG System](https://github.com/abdullahdev1112/RAG)** - Retrieval-Augmented Generation implementation for AI-powered document contextualization.
-*   **[P2P System with Waku](https://github.com/abdullahdev1112/p2p-system)** - Decentralized peer-to-peer communication system utilizing the Waku network.
-
-#### 🏢 Core Business Backends
-*   **[Tasleem Backend](https://github.com/abdullahdev1112/taslemm-backend)** - Central monolithic backend for the Tasleem application.
-*   **[Nexaru Backend](https://github.com/abdullahdev1112/nexaru-backend)** - Core backend service handling Nexaru platform logic and APIs.
-*   **[Vaihok Backend](https://github.com/abdullahdev1112/vaihok-backend)** - Application logic and data management for the Vaihok project.
-*   **[Tasleem Dashboard](https://github.com/abdullahdev1112/tasleem-dashboard)** - Administrative dashboard for managing the Tasleem ecosystem.
+### 🧰 Tools
+Git • VS Code • Android Studio • Postman
 
 ---
 
-*I enjoy building backend systems that are reliable, scalable, and production-ready. Always open to Backend Developer / Backend Engineer opportunities!*
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadfahaddev&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfahaddev&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfahaddev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfahaddev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 **Winner – Most Innovative Idea**  
+Innovate 4.0 Hackathon (ITCN Asia 2024)
+
+🥈 **Runner Up – Web Programming Competition**  
+Riphah International University 2023
+
+💰 **Startup Pitch Winner – Innovate 4.0**
+
+---
+
+# 🎯 Current Learning
+
+- Kubernetes Orchestration
+- Cloud Architecture (AWS & GCP)
+- DevOps Pipelines & Automation
+- AI Systems Integration
+- Scalable System Design
+
+---
+
+# 🌐 Connect With Me
+
+Portfolio • LinkedIn • GitHub • Email
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhammadfahaddev&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💬 Motto
+
+> Building scalable software, modern applications, and cloud powered systems.
+
+---
+
+⭐ **Open for opportunities in:**
+- Software Engineering
+- Full Stack Development
+- Backend Development
+- Junior DevOps Engineer
