@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Abdullah%20Sajjad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Abdullah%20Sajjad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Junior DevOps Engineer</h3>
