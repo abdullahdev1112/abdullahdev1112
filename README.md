@@ -70,8 +70,8 @@ Git • VS Code • Postman cursoe . antigravity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajjad&layout=compact&theme=tokyonight"/>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </p>
 
 ---
